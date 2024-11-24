@@ -27,7 +27,7 @@ https://github.com/syedanida/Clustering/blob/main/timeSeries_Clustering.ipynb
 https://github.com/syedanida/Clustering/blob/main/documents_clustering.ipynb
 
 ### h) **Clustering Images Using ImageBind LLM Embeddings**
-[Notebook Link for Reference]
+https://github.com/syedanida/Clustering/blob/main/clustering_with_images.ipynb
 
 ### i) **Audio Embeddings Clustering Using ImageBind LLMs**
 [Notebook Link for Reference]
