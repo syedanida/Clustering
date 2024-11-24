@@ -30,4 +30,4 @@ https://github.com/syedanida/Clustering/blob/main/documents_clustering.ipynb
 https://github.com/syedanida/Clustering/blob/main/clustering_with_images.ipynb
 
 ### i) **Audio Embeddings Clustering Using ImageBind LLMs**
-[Notebook Link for Reference]
+https://github.com/syedanida/Clustering/blob/main/audio_clustering.ipynb
